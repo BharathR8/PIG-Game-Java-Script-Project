@@ -1,5 +1,4 @@
 # PIG-Game-Java-Script-Project
-Interactive Web Gaming App
 Developed a 2 player game played with a Dice, where the number generated           
 for every die roll adds up to the score of the current player and the first player  
 to reach the score of 100 wins. But if number 1 is rolled, the player score 
