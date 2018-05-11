@@ -1,2 +1,0 @@
-# PROJECTS
-JavaScript Projects
