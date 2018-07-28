@@ -6,4 +6,6 @@ turns to 0 and it is the next players turn to play. The player can choose to
 Hold, which means his current score gets saved and the player can start of 
 from this score for his next turn.
 
-Technologies: Java Script, HTML, CSS
+Technologies: JavaScript, HTML5, CSS3
+
+How to run the application: Open the index.html file
